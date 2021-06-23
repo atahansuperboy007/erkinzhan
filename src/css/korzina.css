@@ -1,0 +1,96 @@
+.Korzina {
+  padding: 20px 0px 10px 40px;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+.Korzina__card {
+  width: 213px;
+  height: 300px;
+  border: 1px solid #333;
+  padding: 10px 5px;
+  margin: 20px;
+}
+.Korzina__card img {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+}
+.Korzina__delete {
+  top: 3px;
+  padding: 5px 10px;
+  background: #333;
+  color: #fff;
+  font-size: 16px;
+}
+.Korzina__add {
+  top: 3px;
+  position: absolute;
+  padding: 5px 10px;
+  border: 1px solid #333;
+  background: #fff;
+  color: #333;
+  font-size: 16px;
+}
+.div_div_1 {
+  background: rgb(80, 80, 255);
+  width: 500px;
+  height: 150px;
+  margin: 10px 50px 20px 50px;
+}
+.text_1_div {
+  color: white;
+  margin: 20px 0px 0px 0px;
+  text-align: center;
+}
+.button-1-div {
+  background: white;
+  border: none;
+  color: rgb(80, 80, 255);
+  margin: 20px 0px 15px 0px;
+  width: 170px;
+  height: 40px;
+  border-radius: 50px;
+}
+.div_div_2 {
+  background: rgb(80, 80, 255);
+  width: 500px;
+  height: 150px;
+  margin: 10px 50px 0px 50px;
+}
+.div-flex {
+  display: flex;
+  border: 3px solid black;
+  padding: 10px 10px 0px 10px;
+  margin: 0px 20px 20px 20px;
+}
+.h3 {
+  margin: 20px 0px 0px 0px;
+  font-size: 25px;
+}
+.text-input-1 {
+  border: none;
+  border-radius: 50px 0px 0px 50px;
+  width: 190px;
+  height: 40px;
+  padding: 20px;
+  outline: none;
+  margin: 20px 0px 0px 0px;
+  color: rgb(80, 80, 255);
+}
+.text-button-1 {
+  border: none;
+  border-radius: 0px 50px 50px 0px;
+  width: 100px;
+  height: 40px;
+  outline: none;
+  margin: 20px 0px 0px 0px;
+  color: rgb(80, 80, 255);
+}
+.text-15-15 {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 200px 419px 200px 419px;
+  margin: 0px 0px 20px 20px;
+}

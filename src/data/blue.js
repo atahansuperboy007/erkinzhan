@@ -1,0 +1,98 @@
+export const blue = [
+    {
+        title: "Huawei P30",
+        sum: "75 990 т",
+        img: "https://www.technodom.kz/media/catalog/product/cache/79d62b5a17d20b122cb8cbf050cc7241/0/f/0f753416961dd301c837bd91404404a03af1ca9e_15278451752990.jpg",
+        id: 7,
+    },
+    {
+        title: "NOKIA 5.3",
+        sum: "69 990 т",
+        img: "https://object.pscloud.io/cms/cms/Photo/img_0_77_2541_0_1.jpg",
+        id: 28,
+    },
+    {
+        title: "OPPO A72",
+        sum: "99 490 т",
+        img: "https://sanmi.kz/upload/iblock/2f3/6635437-1590040649.png",
+        id: 45,
+    },
+    {
+        title: "OPPO A15",
+        sum: "59 990 т",
+        img: "https://evrika.com/upload/resize_cache/iblock/761/435_400_1/smartfon_oppo_a15_32gb_2gb_mystery_blue.jpg",
+        id: 46,
+    },
+    {
+        title: "HUAWEI Nova 5T",
+        sum: "109 990 т",
+        img: "https://cdn.alzashop.com/ImgW.ashx?fd=f16&cd=HU3141b3",
+        id: 49,
+    },
+    {
+        title: "Apple 12",
+        sum: "439 032 т",
+        img: "https://www.technodom.kz/media/catalog/product/cache/79d62b5a17d20b122cb8cbf050cc7241/7/1/71f39f992faa2fcb8a0bf2efe97ff1c1af8203ad_228595_1.jpg",
+        id: 8,
+    },
+    {
+        title: "XIAOMI Poco X3",
+        sum: "129 990 т",
+        img: "https://www.mobitron.kz/upload/iblock/b71/b71c7679ba2d8d5809a0f19e8f16d297.jpg",
+        id: 126,
+    },
+    {
+        title: "SAMSUNG SM A 415",
+        sum: "99 890 т",
+        img: "https://images.samsung.com/is/image/samsung/kz-ru-galaxy-a41-a415-sm-a415fzbdskz-back-245644002?$720_576_PNG$",
+        id: 127,
+    },
+    {
+        title: "HUAWEI P30",
+        sum: "213 890 т",
+        img: "https://www.technodom.kz/media/catalog/product/cache/1366e688ed42c99cd6439df4031862c6/d/f/df7bd8b9eae16eaff40fa6fe62ccda8b75a7986c_15277772472350.jpg",
+        id: 128,
+    },
+    {
+        title: "XIAOMI Redmi 9T",
+        sum: "79 990 т",
+        img: "https://www.mobitron.kz/upload/iblock/56c/56cac98329590d91baf453055617aafe.jpg",
+        id: 129,
+    },
+    {
+        title: "APPLE iPhone 12 PRO",
+        sum: "674 890 т",
+        img: "https://object.pscloud.io/cms/cms/Photo/img_0_77_2624_0_1.jpg",
+        id: 130,
+    },
+    {
+        title: "HUAWEI Y9s",
+        sum: "104 990 т",
+        img: "https://shop.huawei.by/image/cache/catalog/product/smartphone/y9s/blue/huawei_y9s_blue_20-460x460.jpg",
+        id: 131,
+    },
+    {
+        title: "HUAWEI Nova 5T",
+        sum: "109 990 т",
+        img: "https://object.pscloud.io/cms/cms/Photo/img_0_77_2289_0.jpg",
+        id: 132,
+    },
+    {
+        title: "HUAWEI P40 Lite E",
+        sum: "74 890 т",
+        img: "https://cdn1.ozone.ru/s3/multimedia-m/c1200/6018492826.jpg",
+        id: 133,
+    },
+    {
+        title: "XIAOMI Redmi 9C",
+        sum: "59 990 т",
+        img: "https://img.al-style.kz/34710_1.jpg",
+        id: 134,
+    },
+    {
+        title: "SAMSUNG SM G 780",
+        sum: "279 890 т",
+        img: "https://i0.wp.com/smart-time.kz/wp-content/uploads/2020/11/SAMSUNG-SM-G-780-Galaxy-S20-FE-128GB-FZBDS-navy.jpeg?fit=1000%2C1000&ssl=1",
+        id: 135,
+    },
+]

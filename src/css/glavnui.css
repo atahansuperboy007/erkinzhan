@@ -1,0 +1,107 @@
+.giv {
+    background: url(https://static-sl.insales.ru/files/1/1525/2532853/original/d0501c651bd7639cd5d19ab3b28e0522.jpg);
+    background-repeat: no-repeat;
+    background-size: 1350px;
+}
+.giv h1 {
+    font-size: 30px;
+    background: rgba(0, 0, 0, 0.644);
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 20px;
+}
+.giv-div{
+    padding: 170px 415px;
+}
+.image-div {
+    display: flex;
+}
+.text-div {
+    font-size: 25px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+    margin: 20px 50px 0px 50px;
+}
+.image-1 {
+    height: 50px;
+    margin: 40px 199px 20px 199px;
+}
+.text-div-2 {
+    display: flex;
+}
+.text-div-2-text-1 {
+    margin: 0px 90px 50px 90px ;
+}
+.text-div-3 {
+    font-size: 25px;
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
+.text-big-div {
+    background-color: rgb(80, 80, 255);
+    color: white;
+    margin: 10px 70px 50px 70px;
+}
+.text-litel-div {
+    display: flex;
+}
+.text-litel-div p {
+    margin: 0px 370px 0px 30px;
+    font-size: 22px;
+}
+.input-litel-div input {
+    height: 30px;
+    padding: 0px 20px;
+    border: none;
+    outline: none;
+    width: 405px;
+    margin: 0px 10px 20px 30px;
+}
+.input-litel-div button {
+    border: none;
+    outline: none;
+    background-color: rgb(131, 131, 131);
+    height: 30px;
+    width: 259px;
+    margin: 0px 30px 20px 30px;
+    transition: .3s;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+.input-litel-div button:hover {
+    transition: .3s;
+    background-color: rgb(168, 168, 168);
+}
+.image-img {
+    height: 400px;
+    margin: 50px 100px 50px 200px;
+    border: 30px solid rgb(80, 80, 255);
+}
+.image-text-div-2 {
+    display: flex;
+}
+.text-div-4 {
+    margin: 150px 0px 0px 0px ;
+}
+.text-div-5 {
+    margin: 50px 200px 50px 0px;
+    font-size: 14px;
+}
+.text-footer {
+    font-size: 25px;
+    margin: 20px 50px;
+}
+.text-footer p {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+}
+.image-litel-image-img {
+    height: 100px;
+    border-radius: 100%;
+    margin:  0px 174px;
+}
+.text-footer-text {
+    display: flex;
+}
+.text-footer-text h4 {
+    margin: 10px 197px 20px 197px;
+}

@@ -1,0 +1,36 @@
+.text-1111 {
+    margin: 20px 1100px 20px 0px;
+}
+.text-111 {
+    width: 1270px;
+    height: 30px;
+    padding: 0px 10px;
+    margin: 0px 0px 20px 0px;
+}
+.text-11 {
+    width: 1270px;
+    height: 30px;
+    padding: 0px 10px;
+    margin: 20px 0px 0px 0px;
+}
+.button-111 {
+    margin: 20px 0px 20px 20px;
+    width: 100px;
+    height: 30px;
+    background: rgb(76, 76, 255);
+    border: none;
+    color: white;
+    transition: 0.3s;
+}
+.button-111:hover {
+    background: rgb(113, 113, 255);
+    transition: 0.3s;
+}
+.text-11-2 {
+    color: rgb(104, 104, 255);
+    margin: 10px 0px 10px 20px;
+}
+.text-11-3 {
+    color: rgb(104, 104, 255);
+    margin: 10px 0px 100px 20px;
+}

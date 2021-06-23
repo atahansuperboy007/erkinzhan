@@ -1,0 +1,70 @@
+.navbar {
+  background-color: rgb(80, 80, 255);
+  display: flex;
+}
+
+.navbar__link {
+  color: white;
+  text-decoration: none;
+  padding: 13px 25px;
+}
+.header {
+  color: white;
+  display: flex;
+  margin: 5px 350px 5px 20px;
+}
+
+.header p {
+  margin: 0px 20px 0px 20px;
+}
+
+body {
+  font-family: Verdana;
+}
+.navder-text {
+  text-decoration: none;
+}
+a.navbar__link {
+  color: #fff;
+  text-decoration: none;
+}
+div.navbar__search {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.navbar__search input {
+  border: 1px solid black;
+  padding: 5px;
+  outline: none;
+  border-radius: 1px;
+}
+div.navbar__search img {
+  max-height: 20px;
+  position: absolute;
+  right: 5px;
+  margin-left: 4px;
+}
+ul.search__results {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  background: #fff;
+  top: 42px;
+  list-style: none;
+  border: 2px solid rgb(80, 80, 255);
+  padding: 2px 5px;
+}
+.search__results li a {
+  color: black;
+  text-decoration: none;
+}
+.text-company {
+  margin: 20px 20px ;
+}
+.text-company-1 {
+  margin: 20px 20px 20px 50px;
+}
+.text-company-2 {
+  margin: 20px 20px 100px 50px;
+}

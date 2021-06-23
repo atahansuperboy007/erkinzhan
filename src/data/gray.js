@@ -1,0 +1,98 @@
+export const gray = [
+    {
+        title: "LED LG 43 LM5700",
+        sum: "164 990 т",
+        img: "https://www.lg.com/ru/images/televisions/md07504479/gallery/1100-1.jpg",
+        id: 3,
+    },
+    {
+        title: "Smart TV K6500",
+        sum: "124 990 т",
+        img: "https://images.samsung.com/is/image/samsung/ru-full-hd-k6500-ue55k6500auxru-001-front-black?$LazyLoad_Home_IMG$",
+        id: 4,
+    },
+    {
+        title: "SAMSUNG GALAXY A51",
+        sum: "129 990 т",
+        img: "https://www.technodom.kz/media/catalog/product/cache/79d62b5a17d20b122cb8cbf050cc7241/b/8/b856eaf43c7df24ce74d8780a915ecba1131eece_217129_1vbn.jpg",
+        id: 5,
+    },
+    {
+        title: "Redmi Note 10",
+        sum: "99 990 т",
+        img: "https://www.technodom.kz/media/catalog/product/cache/79d62b5a17d20b122cb8cbf050cc7241/b/4/b498003ac0606f08113800da5e19609b37a1a1c2_238851_1.jpg",
+        id: 9,
+    },
+    {
+        title: "LED LG 86",
+        sum: "749 990 т",
+        img: "https://www.lg.com/ru/images/televisions/md07504697/gallery/1100-1.jpg",
+        id: 52,
+    },
+    {
+        title: "LED XIAOMI Mi",
+        sum: "214 990 т",
+        img: "https://ants.kz/images/stories/virtuemart/product/televizor-xiaomi-mi-tv-4s-eu-50-28a.jpg",
+        id: 53,
+    },
+    {
+        title: "LED SONY KDL",
+        sum: "169 590 т",
+        img: "https://www.sony.kz/image/7330e6d37c178d8930475bcc68628ca3?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF",
+        id: 54,
+    },
+    {
+        title: "SAMSUNG Galaxy S21",
+        sum: "389 890 т",
+        img: "https://techline.az/wp-content/uploads/2021/03/g991_grey-1.jpg",
+        id: 71,
+    },
+    {
+        title: "LED SONY KDL32",
+        sum: "109 990 т",
+        img: "https://www.sony.ru/image/3c97d9b99fa516fa7a415c09888cbbe8?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF",
+        id: 67,
+    },
+    {
+        title: "LED SONY KDL50",
+        sum: "229 990 т",
+        img: "https://mechta.kz/export/1cbitrix/import_files/c7/c7205af4-78f1-11e8-a213-005056b6dbd7.jpeg",
+        id: 68,
+    },
+    {
+        title: "XIAOMI Mi 11",
+        sum: "149 990 т",
+        img: "https://mobitron.kz/upload/iblock/406/406e6b1bd814ae07814d9b2cb4c31d71.jpeg",
+        id: 72,
+    },
+    {
+        title: "XIAOMI Poco X3",
+        sum: "129 990 т",
+        img: "https://sanmi.kz/upload/iblock/6f9/xiaomi-poco-x3-6-128gb-shadow-gray-seryj-100583134-3.png",
+        id: 73,
+    },
+    {
+        title: "Dell Vostro 5401",
+        sum: "344 110 т",
+        img: "https://forcecom.kz/upload/resize_cache/iblock/c6f/340_340_140cd750bba9870f18aada2478b24840a/c6fabfa656ac12dbd29f445c78911a76.JPG",
+        id: 95,
+    },
+    {
+        title: "DELL 210-AVKY",
+        sum: "264 270 т",
+        img: "https://images.satu.kz/146949626_dell-210-avky-noutbuk.jpg",
+        id: 96,
+    },
+    {
+        title: "DELL 14 Vostro 5401",
+        sum: "368 845 т",
+        img: "https://cdn-kaspi.kz/shop/medias/sys_master/images/images/he1/h2e/15700891041822/dell-14-vostro-5401-210-avnj-seryj-100651428-1.png",
+        id: 97,
+    },
+    {
+        title: "Dell Inspiron 5378-18",
+        sum: "172 590 т",
+        img: "https://cdn.svyaznoy.ru/upload/iblock/458/288547_2302_draft.jpg/resize/483x483/hq/",
+        id: 98,
+    },
+]

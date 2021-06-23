@@ -1,0 +1,73 @@
+body {
+  text-decoration: none;
+}
+.Catalog-button {
+  text-decoration: none;
+  color: black;
+}
+.Catalog {
+  padding: 20px 40px; 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.Catalog__card {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  border: 1px solid #333;
+  padding: 10px 5px;
+  padding-top: 40px;
+  margin-bottom: 10px;
+  text-align: center;
+  text-decoration: none;
+}
+.Catalog__card img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-left: auto;
+}
+.Catalog__delete {
+  right: 5px;
+  top: 3px;
+  position: absolute;
+  padding: 5px 10px;
+  border: 1px solid #fff;
+  background: #333;
+  color: #fff;
+  font-size: 10px;
+  cursor: pointer;
+}
+.Catalog__add {
+  right: 5px;
+  top: 3px;
+  position: absolute;
+  padding: 5px 10px;
+  border: 1px solid #333;
+  border-radius: 6px;
+  background: #fff;
+  color: #333;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.Internet{
+  display: flex;
+}
+.color-div {
+  margin: 20px 40px;
+}
+.color-text {
+  color: red;
+}
+.color-text2 {
+  color: green;
+}
+.color-text3 {
+  color: yellow;
+}
+.color-text4 {
+  color: pink;
+}

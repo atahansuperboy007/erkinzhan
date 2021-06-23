@@ -1,0 +1,300 @@
+.botton img {
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+
+.botton {
+    display: flex;
+}
+
+.button {
+    text-decoration: none;
+    color: white;
+}
+
+.click- {
+    margin: 20px 0px 20px 30px;
+}
+
+.link-bot {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.header p {
+    margin: 8px 20px 10px 20px;
+    font-size: 15px;
+    color: white;
+}
+
+.sectionher {
+    display: flex;
+    text-align: center;
+}
+
+.input-img {
+    margin-top: 2px;
+    width: 20px;
+    background-color: white;
+    padding: 3px 10px 3px 10px;
+}
+
+.catalog-card {
+    border: 1px solid black;
+    margin: 20px 0px 20px 25px;
+}
+
+.block-name {
+    background-color: rgb(80, 80, 255);
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.block-img {
+    max-width: 50px;
+    border-radius: 100px;
+    margin: 10px 50px 25px 50px;
+}
+
+.block-img:hover {
+    transform: rotate(360deg);
+    transition: 1.5s;
+}
+
+.block-text {
+    padding: 30px 20px 10px 20px;
+    border-top: 1px solid rgb(255, 255, 255);
+}
+.namber p {
+    border: 1px solid black;
+    padding: 2px 5px;
+    margin: 0px 5px 40px 5px;
+}
+
+.namber {
+    display: flex;
+    margin-left: 900px;
+}
+.num {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+.oplata {
+    font-size: 30px;
+    margin: 20px 50px 0px 0px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+.Oplata-div {
+    margin-left: 50px;
+}
+.oplata-text-1 {
+    margin: 30px 0px 20px 0px;
+}
+
+.oplata-text-2 {
+    margin: 50px 0px 20px 0px;
+}
+
+.oplata-text-3 {
+    margin: 50px 0px 20px 0px;
+}
+
+.oplata-text-4 {
+    margin: 20px 0px;
+}
+
+.oplata-text-5 {
+    font-size: 15px;
+    margin: 0px 50px;
+}
+.oplata-text-7 {
+    font-size: 15px;
+    margin: 0px 60px 0px 0px;
+}
+.oplata-text-75 {
+    font-size: 15px;
+    margin: 0px 60px 100px 0px;
+}
+.oplata-text-6 {
+    font-size: 15px;
+    margin: 0px 0px 10px 50px;
+}
+.oplata-text {
+    margin: 20px 610px 10px 50px;
+}
+.oplata-tex {
+    margin: 0px 0px 100px 50px ;
+}
+.oplata-te {
+    margin: 30px 610px 10px 0px ;
+}
+.contacts {
+    margin: 20px 450px 20px 0px;
+}
+.contacts-1 {
+    margin: 20px 450px 100px 0px;
+}
+.contacts-text {
+    margin: 20px 670px 30px 0px;
+}
+.contacts-img {
+    width: 1000px;
+    height: 500px;
+}
+.contacts-table {
+    display: flex;
+}
+.contacts-table-text-1 {
+    padding: 10px 20px 5px 10px;
+    border-right: 1px solid rgba(0, 0, 0, 0.3);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+.contacts-table-text-2 {
+    padding: 10px 61px 5px 10px;
+    border-right: 1px solid rgba(0, 0, 0, 0.3);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+.contacts-table-text-3 {
+    padding: 10px 80px 5px 10px;
+    border-right: 1px solid rgba(0, 0, 0, 0.3);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+.contacts-table-text-4 {
+    padding: 10px 65px 5px 10px;
+    border-right: 1px solid rgba(0, 0, 0, 0.3);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+.contacts-table-text-5 {
+    padding: 10px 60px 5px 10px;
+    border-right: 1px solid rgba(0, 0, 0, 0.3);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+.contacts-table-text-6 {
+    padding: 10px 62px 5px 10px;
+    border-right: 1px solid rgba(0, 0, 0, 0.3);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+.contacts-table-text-7 {
+    padding: 10px 25px 5px 10px;
+    border-right: 1px solid rgba(0, 0, 0, 0.3);
+}
+.contacts-table-text1 {
+    padding: 10px 27px 10px 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+.contacts-table-text2 {
+    padding: 10px 27px 10px 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+.contacts-table-text3 {
+    padding: 10px 26px 10px 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+.contacts-table-text4 {
+    padding: 10px 26px 10px 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+.contacts-table-text5 {
+    padding: 10px 27px 10px 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+.contacts-table-text6 {
+    padding: 10px 17px 10px 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+.contacts-table-text7 {
+    padding: 10px;
+}
+.contacts-table-text7 {
+    padding: 10px;
+}
+.contacts-table-1 {
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    max-width: 311px;
+}
+.Personal-input {
+    outline: none;
+    padding: 5px 1070px 5px 5px ;
+    border-radius: 0;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+}
+.Personal-text {
+    margin: 50px 10px 10px 00px;
+}
+.Personal-text2 {
+    margin: 20px 10px 10px 00px;
+}
+.Personal-button {
+    margin: 30px 10px 20px 0px;
+    padding: 7px 22px 7px 22px;
+    background-color: rgb(80, 80, 255);
+    border: none;
+    font-size: 17px;
+    color: white;
+}
+.Personal-button:hover {
+    background-color: rgba(80, 80, 255, 0.8);
+    transition: 0.5s;
+}
+.Personal-text-blue {
+    color: rgb(80, 80, 255);
+    margin: 10px 5px 10px 5px;
+}
+.Personal-text-blue2 {
+    color: rgb(80, 80, 255);
+    margin: 10px 5px 100px 5px;
+}
+.maps-link {
+    outline: none;
+    border: 1px solid white;
+}
+
+.element-image {
+    max-width: 500px;
+}
+.element-div {
+    display: flex;
+    margin: 20px;
+}
+.element-div-2 {
+    margin: 20px;
+}
+.element-title {
+    margin: 20px;
+}
+.element-summa {
+    margin: 20px;
+}
+.search-div {
+    display: flex;
+    margin: 20px;
+}
+.search-text {
+    margin: 20px;
+}
+.search-text-text-2 {
+    margin: 20px;
+}
+.search-div img {
+    max-width: 500px;
+}
+.search-text-1 {
+    margin: 20px;
+}
+.text-div-1-1_1 {
+    max-width: 500px;
+}
+.DetailProduct {
+    display: flex;
+    margin: 20px;
+}
+.text-div-2-2_2 {
+    margin: 20px;
+}
+.text-div-3-3_3 {
+    margin: 0px 20px 0px 20px;
+}
